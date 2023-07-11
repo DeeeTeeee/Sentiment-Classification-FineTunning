@@ -35,7 +35,7 @@ Please type your text and press ENTER key to know if your text is positive, nega
 
 
 # Add image
-image = st.image(r"https://tatvaminsights.com/sentiment-analysis-positive-negative-and-neutral/", width=400)
+image = st.image("https://medium.com/scrapehero/sentiment-analysis-using-svm-338d418e3ff1", width=400)
 
 # Get user input
 text = st.text_input("Type here:")
